@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://65w7fyY7N6v_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Iterative Statements</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/5YE6ga4nsZp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Welcome</name>
+			<description lang="und">Welcome</description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/6omjvr4c1Gt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Let’s Count</name>
+			<description lang="und">Let’s Count</description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/66IWu1fmZzt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">While Statements: Syntax</name>
+			<description lang="und">While Statements: Syntax</description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/6IVaPP1RAav" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">While Statements: Let’s Count Solution Using While </name>
+			<description lang="und">While Statements: Let’s Count Solution Using While </description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/6CpOLpEQ0B3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">For Statements: Syntax</name>
+			<description lang="und">For Statements: Syntax</description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/6OTTtDJvA66" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">For Statements: Let’s Count Solution Using For</name>
+			<description lang="und">For Statements: Let’s Count Solution Using For</description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/6h4yByH2MpM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">For Statements: Comparing While and For Solutions</name>
+			<description lang="und">For Statements: Comparing While and For Solutions</description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/5l9y65xxnXV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">For Statements: Iterable Collections and the Range( ) Function </name>
+			<description lang="und">For Statements: Iterable Collections and the Range( ) Function </description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/6oOnNYNfLk9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Printing a Square </name>
+			<description lang="und">Printing a Square </description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/6djiQj7p2gI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Triangle Aligned to the Left</name>
+			<description lang="und">Triangle Aligned to the Left</description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/6o65WZAewgm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Printing a Triangle Aligned to the Left</name>
+			<description lang="und">Printing a Triangle Aligned to the Left</description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/6HahazTNhko" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Triangle Aligned to the Right</name>
+			<description lang="und">Triangle Aligned to the Right</description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/6YYKgKdG5XA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Printing a Triangle Aligned to the Right</name>
+			<description lang="und">Printing a Triangle Aligned to the Right</description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/5msbp2V0KES" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Multiplication Table Example: Intro </name>
+			<description lang="und">Multiplication Table Example: Intro </description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/6b1Sy80yj5g" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Multiplication Table Example: Implementation</name>
+			<description lang="und">Multiplication Table Example: Implementation</description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/5XOO9zKesQQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Computing the Average: Known Length of Numbers</name>
+			<description lang="und">Computing the Average: Known Length of Numbers</description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/62g6GI4GwTc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Known Length of Numbers: Implementation</name>
+			<description lang="und">Known Length of Numbers: Implementation</description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/5W53V87b1en" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Computing the Average: Unknown Length of Numbers </name>
+			<description lang="und">Computing the Average: Unknown Length of Numbers </description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/6XghZrdmCsG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Unknown Length of Numbers: Implementation</name>
+			<description lang="und">Unknown Length of Numbers: Implementation</description>
+		</activity>
+		<activity id="http://65w7fyY7N6v_course_id/6fft1GaNm6Y" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lesson Complete</name>
+			<description lang="und">Lesson Complete</description>
+		</activity>
+	</activities>
+</tincan>
