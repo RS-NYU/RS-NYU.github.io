@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5sPzKuXrwfw_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Lists</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/5YE6ga4nsZp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Welcome</name>
+			<description lang="und">Welcome</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/6omjvr4c1Gt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Computing the Average (Revisited)</name>
+			<description lang="und">Computing the Average (Revisited)</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/5dA5Jlrk012" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction</name>
+			<description lang="und">Introduction</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/6kE8Rigyn2I" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Properties of Python Lists</name>
+			<description lang="und">Properties of Python Lists</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/6QJDfQtneOQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Properties of Python Lists (Continued)</name>
+			<description lang="und">Properties of Python Lists (Continued)</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/5WKphQ5vnYI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lists as Iterable Collections</name>
+			<description lang="und">Lists as Iterable Collections</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/6T3sDWNNVfO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">List Methods</name>
+			<description lang="und">List Methods</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/6kSJL6Mpgnv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Roll the Dice</name>
+			<description lang="und">Roll the Dice</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/5tsH2yILvSJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Roll the Dice: Implementation</name>
+			<description lang="und">Roll the Dice: Implementation</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/5XfRH5v3L97" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Above the Average</name>
+			<description lang="und">Above the Average</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/6XKPkhiiAWg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Above the Average (Implementation)</name>
+			<description lang="und">Above the Average (Implementation)</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/5mSsFkqmf4N" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Comparing Lists and Strings</name>
+			<description lang="und">Comparing Lists and Strings</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/5qH4tLZ3RCO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">List Mutability</name>
+			<description lang="und">List Mutability</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/5fl3pLB2dJv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mutation vs. Construction</name>
+			<description lang="und">Mutation vs. Construction</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/6c1PCTMiIpL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Square the List</name>
+			<description lang="und">Square the List</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/5XEVxOiVXAT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Square the List (Constructing a New List)</name>
+			<description lang="und">Square the List (Constructing a New List)</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/5iFroOqhvLw" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Square the List (Mutating the List)</name>
+			<description lang="und">Square the List (Mutating the List)</description>
+		</activity>
+		<activity id="http://5sPzKuXrwfw_course_id/6fft1GaNm6Y" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lesson Complete</name>
+			<description lang="und">Lesson Complete</description>
+		</activity>
+	</activities>
+</tincan>

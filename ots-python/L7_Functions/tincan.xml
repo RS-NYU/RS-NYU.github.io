@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5xaliTTrvB3_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Functions</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://5xaliTTrvB3_course_id/5YE6ga4nsZp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Welcome</name>
+			<description lang="und">Welcome</description>
+		</activity>
+		<activity id="http://5xaliTTrvB3_course_id/5pzEEpCzrDT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Fan of Squares</name>
+			<description lang="und">Fan of Squares</description>
+		</activity>
+		<activity id="http://5xaliTTrvB3_course_id/6JDe0K0PtzR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Fan of Squares (Simple Implementation)</name>
+			<description lang="und">Fan of Squares (Simple Implementation)</description>
+		</activity>
+		<activity id="http://5xaliTTrvB3_course_id/6aLi3P5u8Ib" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">turtle_square Function</name>
+			<description lang="und">turtle_square Function</description>
+		</activity>
+		<activity id="http://5xaliTTrvB3_course_id/5sZAJzUceUd" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Function Call as a Control Flow</name>
+			<description lang="und">Function Call as a Control Flow</description>
+		</activity>
+		<activity id="http://5xaliTTrvB3_course_id/6McDfZr0AqI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Adding main and fan_of_squares Functions</name>
+			<description lang="und">Adding main and fan_of_squares Functions</description>
+		</activity>
+		<activity id="http://5xaliTTrvB3_course_id/6fzj0gquntR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Converting Fahrenheit to Celsius</name>
+			<description lang="und">Converting Fahrenheit to Celsius</description>
+		</activity>
+		<activity id="http://5xaliTTrvB3_course_id/6iDhvyAWirP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Converting Fahrenheit to Celsius (Implementation)</name>
+			<description lang="und">Converting Fahrenheit to Celsius (Implementation)</description>
+		</activity>
+		<activity id="http://5xaliTTrvB3_course_id/6bypI4cdYeG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tracing Flow and Data Passing</name>
+			<description lang="und">Tracing Flow and Data Passing</description>
+		</activity>
+		<activity id="http://5xaliTTrvB3_course_id/5WkPZhMiNLT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Runtime Stack</name>
+			<description lang="und">Runtime Stack</description>
+		</activity>
+		<activity id="http://5xaliTTrvB3_course_id/6MUDlbkeh1U" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Palindrome Checker</name>
+			<description lang="und">Palindrome Checker</description>
+		</activity>
+		<activity id="http://5xaliTTrvB3_course_id/6HRp0HG8BKO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Palindrome Checker Program</name>
+			<description lang="und">Palindrome Checker Program</description>
+		</activity>
+		<activity id="http://5xaliTTrvB3_course_id/6gURMHF4IKs" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Palindrome Checker (Implementation)</name>
+			<description lang="und">Palindrome Checker (Implementation)</description>
+		</activity>
+		<activity id="http://5xaliTTrvB3_course_id/6fft1GaNm6Y" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lesson Complete</name>
+			<description lang="und">Lesson Complete</description>
+		</activity>
+	</activities>
+</tincan>
