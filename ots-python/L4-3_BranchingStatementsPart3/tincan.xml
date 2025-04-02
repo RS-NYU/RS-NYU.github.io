@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6aSTNfjMOXS_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Branching Statements, Part 3</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://6aSTNfjMOXS_course_id/6Y1dHwA4dw9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Welcome</name>
+			<description lang="und">Welcome</description>
+		</activity>
+		<activity id="http://6aSTNfjMOXS_course_id/5xgLD4MWK3E" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Letter Grade Problem</name>
+			<description lang="und">The Letter Grade Problem</description>
+		</activity>
+		<activity id="http://6aSTNfjMOXS_course_id/5ueGCuHlH1L" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Syntax and Semantics</name>
+			<description lang="und">Syntax and Semantics</description>
+		</activity>
+		<activity id="http://6aSTNfjMOXS_course_id/69xX31XIXbh" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Solving the Letter Grade Problem</name>
+			<description lang="und">Solving the Letter Grade Problem</description>
+		</activity>
+		<activity id="http://6aSTNfjMOXS_course_id/6dWdzIsribE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction to the Problem</name>
+			<description lang="und">Introduction to the Problem</description>
+		</activity>
+		<activity id="http://6aSTNfjMOXS_course_id/6UAj2XeHRK3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Implementing a Solution to the Problem</name>
+			<description lang="und">Implementing a Solution to the Problem</description>
+		</activity>
+		<activity id="http://6aSTNfjMOXS_course_id/6p6ZjoETf4Z" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Review</name>
+			<description lang="und">Review</description>
+		</activity>
+		<activity id="http://6aSTNfjMOXS_course_id/6N0DAsw5Qo0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lesson Complete</name>
+			<description lang="und">Lesson Complete</description>
+		</activity>
+	</activities>
+</tincan>
