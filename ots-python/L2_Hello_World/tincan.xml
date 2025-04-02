@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6cCNe4lNMZm_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Hello World</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://6cCNe4lNMZm_course_id/6E1lJI9zEO9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Welcome</name>
+			<description lang="und">Welcome</description>
+		</activity>
+		<activity id="http://6cCNe4lNMZm_course_id/6omjvr4c1Gt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Overview</name>
+			<description lang="und">Overview</description>
+		</activity>
+		<activity id="http://6cCNe4lNMZm_course_id/6UuquVL4yOX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Computational Problems</name>
+			<description lang="und">Computational Problems</description>
+		</activity>
+		<activity id="http://6cCNe4lNMZm_course_id/6icLL8sqsKY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Algorithm</name>
+			<description lang="und">Algorithm</description>
+		</activity>
+		<activity id="http://6cCNe4lNMZm_course_id/6AJNJ7ZmeIZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Process of Executing a Program</name>
+			<description lang="und">Process of Executing a Program</description>
+		</activity>
+		<activity id="http://6cCNe4lNMZm_course_id/5fARq2ko1Ck" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Build Process</name>
+			<description lang="und">The Build Process</description>
+		</activity>
+		<activity id="http://6cCNe4lNMZm_course_id/6l3lbSugsLU" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Basic Interaction with the Python Interpreter</name>
+			<description lang="und">Basic Interaction with the Python Interpreter</description>
+		</activity>
+		<activity id="http://6cCNe4lNMZm_course_id/6aiWSZwBITB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Input and Output</name>
+			<description lang="und">Input and Output</description>
+		</activity>
+		<activity id="http://6cCNe4lNMZm_course_id/6BAuSgBsNOj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Welcome to Python</name>
+			<description lang="und">Welcome to Python</description>
+		</activity>
+		<activity id="http://6cCNe4lNMZm_course_id/6d2ljycnCrV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Welcome to Python: Example</name>
+			<description lang="und">Welcome to Python: Example</description>
+		</activity>
+		<activity id="http://6cCNe4lNMZm_course_id/5aZZBaeLXJ0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Adding Numbers</name>
+			<description lang="und">Adding Numbers</description>
+		</activity>
+		<activity id="http://6cCNe4lNMZm_course_id/67nSCVIYCYx" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Adding Numbers: Example</name>
+			<description lang="und">Adding Numbers: Example</description>
+		</activity>
+		<activity id="http://6cCNe4lNMZm_course_id/6fft1GaNm6Y" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lesson Complete</name>
+			<description lang="und">Lesson Complete</description>
+		</activity>
+	</activities>
+</tincan>
