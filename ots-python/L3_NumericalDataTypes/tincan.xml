@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6RtgPOme9Z3_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Numerical Data Types and Arithmetic Expressions</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/5YE6ga4nsZp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Welcome</name>
+			<description lang="und">Welcome</description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/5aoRCILiJ5h" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/6omjvr4c1Gt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction </name>
+			<description lang="und">Introduction </description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/5hY8DfyMCAJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The int Data Type. </name>
+			<description lang="und">The int Data Type. </description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/66CEoaDJzus" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The int Data Type. Two’s Complement</name>
+			<description lang="und">The int Data Type. Two’s Complement</description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/6UPcNRki2iB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The int Data Type.</name>
+			<description lang="und">The int Data Type.</description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/6WXjLPEwMoK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The int Data Type. Arithmetic Operators</name>
+			<description lang="und">The int Data Type. Arithmetic Operators</description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/6P9IAtWvUq4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The int Data Type Example</name>
+			<description lang="und">The int Data Type Example</description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/6FTmcGo7lEP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">int Data Type Example: Implementation</name>
+			<description lang="und">int Data Type Example: Implementation</description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/5lKk8KM4YAx" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The float Data Type</name>
+			<description lang="und">The float Data Type</description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/6Dn3JtuWuEU" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">‘Area of a Circle’ Problem</name>
+			<description lang="und">‘Area of a Circle’ Problem</description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/6bnLK5cN9uW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">‘Area of a Circle’ Implementation</name>
+			<description lang="und">‘Area of a Circle’ Implementation</description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/64ElXwQRTUB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Drawing a Square</name>
+			<description lang="und">Drawing a Square</description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/6U8kDWEKJlF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Turtle Graphics Module</name>
+			<description lang="und">The Turtle Graphics Module</description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/6l6MJLLsynq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Turtle Graphics Module Functions</name>
+			<description lang="und">Turtle Graphics Module Functions</description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/62g6GI4GwTc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Drawing a Square</name>
+			<description lang="und">Drawing a Square</description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/5u3fOtkftJt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Drawing a Right Triangle</name>
+			<description lang="und">Drawing a Right Triangle</description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/5dA5Jlrk012" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Drawing a Right Triangle: Example</name>
+			<description lang="und">Drawing a Right Triangle: Example</description>
+		</activity>
+		<activity id="http://6RtgPOme9Z3_course_id/6fft1GaNm6Y" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lesson Complete</name>
+			<description lang="und">Lesson Complete</description>
+		</activity>
+	</activities>
+</tincan>
