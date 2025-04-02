@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0A00:00:01,140%20--%3E%2000:00:08,140%0AA%20much%20more%20secure,%20much%20more%20modern%20approach%20cryptography%20is%20something%20called%20Public%20Key%20Cryptography.%0A%0A2%0A00:00:08,900%20--%3E%2000:00:13,160%0ABefore%20we%20perceived%20further,%20please%20click%20on%20this%20link%20and%20review%20these%20videos.%0A%0A"}')
