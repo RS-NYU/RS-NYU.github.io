@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5tF0EDne1Jt_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Branching Statements, Part 1</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://5tF0EDne1Jt_course_id/6dDs8R88JyO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Welcome</name>
+			<description lang="und">Welcome</description>
+		</activity>
+		<activity id="http://5tF0EDne1Jt_course_id/5flI2bHGNqa" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Motivation</name>
+			<description lang="und">Motivation</description>
+		</activity>
+		<activity id="http://5tF0EDne1Jt_course_id/6cjumN1hI8o" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Bool Data Type</name>
+			<description lang="und">The Bool Data Type</description>
+		</activity>
+		<activity id="http://5tF0EDne1Jt_course_id/66gyoZTzjvS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Boolean Expressions</name>
+			<description lang="und">Boolean Expressions</description>
+		</activity>
+		<activity id="http://5tF0EDne1Jt_course_id/5tOLrAz9oTq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Syntax and Semantcis</name>
+			<description lang="und">Syntax and Semantcis</description>
+		</activity>
+		<activity id="http://5tF0EDne1Jt_course_id/65GJ769HaRL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction to Computing the Absolute Value</name>
+			<description lang="und">Introduction to Computing the Absolute Value</description>
+		</activity>
+		<activity id="http://5tF0EDne1Jt_course_id/5lzuRWgW2RS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Computing the Absolute Value</name>
+			<description lang="und">Computing the Absolute Value</description>
+		</activity>
+		<activity id="http://5tF0EDne1Jt_course_id/6dTUaqzm2zK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lesson Complete</name>
+			<description lang="und">Lesson Complete</description>
+		</activity>
+	</activities>
+</tincan>
