@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6c2Y9dYN4w5_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Positional Number Systems</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://6c2Y9dYN4w5_course_id/6E1lJI9zEO9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Welcome</name>
+			<description lang="und">Welcome</description>
+		</activity>
+		<activity id="http://6c2Y9dYN4w5_course_id/6PgJD4JrGKP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Digital Data</name>
+			<description lang="und">Digital Data</description>
+		</activity>
+		<activity id="http://6c2Y9dYN4w5_course_id/5bAPewORCF2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Counting in Different Number Systems</name>
+			<description lang="und">Counting in Different Number Systems</description>
+		</activity>
+		<activity id="http://6c2Y9dYN4w5_course_id/6YPZRbFzjlx" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Base Conversions: Equivalent Representations</name>
+			<description lang="und">Base Conversions: Equivalent Representations</description>
+		</activity>
+		<activity id="http://6c2Y9dYN4w5_course_id/6T6Kk8DtlX5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Base Conversions: To Decimal</name>
+			<description lang="und">Base Conversions: To Decimal</description>
+		</activity>
+		<activity id="http://6c2Y9dYN4w5_course_id/6cvnYPRASbc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Base Conversions: From Decimal</name>
+			<description lang="und">Base Conversions: From Decimal</description>
+		</activity>
+		<activity id="http://6c2Y9dYN4w5_course_id/6ATQ9ggN4Zg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Binary to Hexadecimal (Technique)</name>
+			<description lang="und">Binary to Hexadecimal (Technique)</description>
+		</activity>
+		<activity id="http://6c2Y9dYN4w5_course_id/5p8EJg9USzb" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Binary to Hexadecimal (Intuition)</name>
+			<description lang="und">Binary to Hexadecimal (Intuition)</description>
+		</activity>
+		<activity id="http://6c2Y9dYN4w5_course_id/6fft1GaNm6Y" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lesson Complete</name>
+			<description lang="und">Lesson Complete</description>
+		</activity>
+	</activities>
+</tincan>
